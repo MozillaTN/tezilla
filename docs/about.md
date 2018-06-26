@@ -17,7 +17,7 @@ We are new, bountiful and infinite. We are a fresh generation of thinkers, mover
 
 We assure Tezilla is a place to innoate new ideas to the world.
 
-Innovate. Inspire. And Build
+Innovate. Inspire. And Create
 
 
 Come let’s join with us…!!!
