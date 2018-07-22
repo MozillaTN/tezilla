@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Angular 2"
+title:  "TEZILLA-First club meet"
 cover: "../assets/2017/angular.svg"
 date:   2016-03-10
 start_time: "12:00"
