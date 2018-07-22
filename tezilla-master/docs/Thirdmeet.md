@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Tezilla Third Meetup"
 cover: "../assets/2017/Third.svg"
-date:   2016-04-03
+date:   2016-07-20
 start_time: "16:00"
 end_time: "18:00"
 
