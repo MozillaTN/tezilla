@@ -3,24 +3,19 @@ layout: post
 
 #event information
 title:  "TEZILLA-First club meet"
-cover: "../assets/2017/angular.svg"
-date:   2016-03-10
-start_time: "12:00"
-end_time: "13:00"
+cover: "../assets/2017/First.svg"
+date:   2018-07-07
+start_time: "16:00"
+end_time: "18:00"
 
 #event organiser details
 
-organiser: "Khaleel Jageer"
+organiser: "Tezilla club members"
 
 categories: event
 ---
 
-Angular computes updates based on changes to data, not DOM, for fast updates that scale to the largest data sets with minimal memory overhead.
-
-With Angular Universal for server-side rendering and Web Workers for smooth scrolling and transitions, Angular 2 solves the core challenges in mobile web performance.
-
-Supports several languages including plain JavaScript, TypeScript, and Dart. Also supports both object-style data structure with POJO data-binding and functional reactive style with unidirectional data flow and support for observables and immutable data structures.
-
-Angular is built by a team of engineers who share a passion for making web development feel effortless. We believe that writing beautiful apps should be joyful and fun. We're building a platform for the future....
-
-If you want to know more come along to my event!
+This is the first meetup Tezilla,Mozilla campus club of narasus sarathy institute of technlogy salem-636305.The Meetup get started with the 
+presentation of agenda for the meet by the club lead M/S.Gayathri devi of BE.CSE 3rd year Followed by it the club social media lead addressed the meetup and gave a introduction on year plan and club activties.
+20 Minutes of break is granted.
+After a break the club members once again gathered in CSE lab and the club lead gae a presentation on introduction to GITHUB and how to use it.Also a sample code was created and worked up by all club members.
